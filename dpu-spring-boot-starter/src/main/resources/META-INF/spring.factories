@@ -1,0 +1,2 @@
+#在该文件中加入如下配置，该配置指定上步骤中定义的配置类为自动装配的配置
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.wl.dpuspringbootstarter.config.DateProcessConfiguration

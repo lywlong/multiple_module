@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dpu-spring-boot-starter" />
+        <module name="spring-batch" />
+        <module name="throughput" />
+        <module name="spring-retry" />
+        <module name="uniform-response-format" />
+        <module name="multiple-data-sources" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dpu-spring-boot-starter" target="1.8" />
+      <module name="multi_module" target="1.8" />
+      <module name="multiple-data-sources" target="1.8" />
+      <module name="spring-batch" target="1.8" />
+      <module name="spring-retry" target="1.8" />
+      <module name="throughput" target="1.8" />
+      <module name="uniform-response-format" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dpu-spring-boot-starter" options="-parameters" />
+      <module name="multi_module" options="-parameters" />
+      <module name="multiple-data-sources" options="-parameters" />
+      <module name="spring-batch" options="-parameters" />
+      <module name="spring-retry" options="-parameters" />
+      <module name="throughput" options="-parameters" />
+      <module name="uniform-response-format" options="-parameters" />
+    </option>
+  </component>
+</project>

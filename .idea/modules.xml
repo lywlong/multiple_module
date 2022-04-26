@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dpu-spring-boot-starter/dpu-spring-boot-starter.iml" filepath="$PROJECT_DIR$/dpu-spring-boot-starter/dpu-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi_module.iml" filepath="$PROJECT_DIR$/multi_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiple-data-sources/multiple-data-sources.iml" filepath="$PROJECT_DIR$/multiple-data-sources/multiple-data-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-batch/spring-batch.iml" filepath="$PROJECT_DIR$/spring-batch/spring-batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-retry/spring-retry.iml" filepath="$PROJECT_DIR$/spring-retry/spring-retry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/throughput/throughput.iml" filepath="$PROJECT_DIR$/throughput/throughput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uniform-response-format/uniform-response-format.iml" filepath="$PROJECT_DIR$/uniform-response-format/uniform-response-format.iml" />
+    </modules>
+  </component>
+</project>
